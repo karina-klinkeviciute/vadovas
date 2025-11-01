@@ -656,3 +656,8 @@ Sąvokos
     IVPK
         `Informacinės visuomenės plėtros komitetas
         <https://ivpk.lrv.lt/lt/atviri-duomenys-1>`_.
+
+
+    VSSA
+        `Valstybės skaitmeninių sprendimų agentūra
+        <https://vssa.lrv.lt/>`_.
