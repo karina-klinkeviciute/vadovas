@@ -54,7 +54,6 @@ Valstybės skaitmeninių sprendimų agentūra (VSSA)
 
 
 .. toctree::
-    :hidden:
 
     atverimas/registracija
     atverimas/inventorizacija
