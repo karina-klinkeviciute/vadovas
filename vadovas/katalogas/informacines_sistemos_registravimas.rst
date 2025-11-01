@@ -25,7 +25,9 @@ Pasirenkame "Informacinė sistema" ir spaudžiame mygtuką "Toliau".
 Supildom atsidariusią formą. Kai kurių formos laukų paaiškinimai:
 
  - Kodinis pavadinimas. Tai informacinės sistemos kodinis pavadinimas, pagal kurį ji bus identifikuojama aprašuose.
+
  - Prieigos teisės. Teikiant duomenis valstybės įstaigoms, reikia rinktis prieigos teises "Nevieši".
+
  - Jei šią informacinę sistemą Kataloge tvarkys jūsų organizacijos atstovai, reikia pažymėti laukelį
   "Ar jūsų atstovaujama institucija yra atsakinga už šio duomenų rinkinio atvėrimą?".
 

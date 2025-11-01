@@ -33,7 +33,9 @@ Supildom atsidariusią formą. Kai kurių formos laukų paaiškinimai:
 
 - Kodinis pavadinimas. Tai duomenų rinkinio sistemos kodinis pavadinimas, pagal kurį ji bus identifikuojama aprašuose.
   Nesuteikus bus užpildoma automatiškai, pagal įstaogos ir duomenų rinkinio pavadinimą.
+
 - Prieigos teisės. Teikiant duomenis valstybės įstaigoms, reikia rinktis prieigos teises "Nevieši".
+
 - Jei šią informacinę sistemą Kataloge tvarkys jūsų organizacijos atstovai, reikia pažymėti laukelį
   "Ar jūsų atstovaujama institucija yra atsakinga už šio duomenų rinkinio atvėrimą?".
 
