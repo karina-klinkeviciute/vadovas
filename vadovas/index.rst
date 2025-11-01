@@ -13,10 +13,9 @@ Duomenų teikimo ir atvėrimo vadovas
 
 Dokumentacija sudaryta iš šių esminių dalių:
 
-- Informacija **duomenų teikėjams** apie :ref:`duomenų teikimo valstybinėms įstaigoms,<duomenu_teikimas>`,
+- Informacija **duomenų teikėjams** apie :ref:`duomenų teikimo valstybinėms įstaigoms <duomenu_teikimas>`,
   :ref:`duomenų atvėrimo <atvėrimas>`,
-  duomenų :ref:`brandos lygio kėlimo <brandos-lygio-kėlimas>` ir
-  :ref:`asmens duomenų tvarkymo <asmens-duomenys>` procesą.
+  ir duomenų :ref:`brandos lygio kėlimo <brandos-lygio-kėlimas>` procesus.
 
 - Informacija **duomenų naudotojams**, apie tai, kaip :ref:`gauti duomenis iš valstybinių įstaigų`,
   :ref:`gauti atvirus duomenis iš saugyklos <saugykla>`,
@@ -33,11 +32,10 @@ Dokumentacija sudaryta iš šių esminių dalių:
     :caption: Vadovas
     :maxdepth: 2
 
-    teikimas
+    teikimas/teikimas
     atverimas
     poreikio-deklaravimas
     brandos-lygio-kelimas/index
-    asmens-duomenys
     duomenu-saltiniai
     priemones
 
