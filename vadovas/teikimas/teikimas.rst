@@ -57,9 +57,9 @@ Valstybės skaitmeninių sprendimų agentūra (VSSA)
     :caption: Duomenų teikėjams
     :maxdepth: 2
 
-    atverimas/registracija
-    atverimas/inventorizacija
-    atverimas/struktura
-    teikimas/agentas
-    teikimas/agento_konfiguravimas
-    teikimas/sutartys
+    /atverimas/registracija
+    /atverimas/inventorizacija
+    /atverimas/struktura
+    /teikimas/agentas
+    /teikimas/agento_konfiguravimas
+    /teikimas/sutartys
