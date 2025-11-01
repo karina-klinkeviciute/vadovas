@@ -55,8 +55,8 @@ Iš kur gauti ŠDSA?
 
 .. _paruošimo-sutartis:
 
-Infrastruktūros paruošimo sutartis
-==================================
+Infrastruktūros paruošimas
+==========================
 
 Atliekant duomenų atvėrimo darbus gali būti reikalingos dvi sutartys. viena
 yra reikalinga infrastruktūros paruošimui, o kita :ref:`duomenų atvėrimui
@@ -156,7 +156,7 @@ duomenų objektų ir aprašymais.
 Tokią lentelę daugeliu atveju galima sugeneruoti automatiškai naudojant
 standartines priemones, jei duomenų šaltinis palaikomas. Jei standartinės
 priemonės duomenų šaltinio nepalaiko, tuomet, Administratorius parengia ŠDSA
-savaranki6kai.
+savarankiškai.
 
 Tokį pradinį ŠDSA variantą Administratorius perduoda Teikėjui.
 
@@ -193,11 +193,11 @@ Generavimas iš schemos
 Jei duomenų šaltinis tai palaiko, galima eksportuoti duomenų šaltinio schemą
 ir ją perduoti Atvėrėjui, kuris iš schemos parengs ŠDSA.
 
-Šaltinio schema gali būti pateikta SQL DDL ar kitu formatu, kurį palaiko
+Šaltinio schema gali būti pateikta SQL DDL, XSD, JSON Schema ar kitu formatu, kurį palaiko
 standartinės priemonės.
 
-Šiuo atveju, nereikia diegti jokių papildomų priemonių, tačiau reikalinga
-Rangovo pagalba eksportuojant duomenų šaltinio schema.
+Šiuo atveju, nereikia diegti jokių papildomų priemonių, tačiau gali būti reikalinga
+Rangovo pagalba eksportuojant duomenų šaltinio schemą.
 
 
 Rankinis paruošimas
@@ -207,6 +207,7 @@ Tam tikrais atvejais, kai duomenų šaltinis yra labai nedidelės apimties arba
 duomenų brandos lygis yra labai žemas, šaltinio duomenų struktūros aprašą
 galima parengti ir rankiniu būdu, užpildant ŠDSA lentelę.
 
+:ref:`ŠDSA paruošimo instrukcija <šdsa-generavimas>
 
 .. _šdsa-suderinimas:
 
@@ -239,23 +240,35 @@ Pasirašius sutartį, Teikėjas perduoda Atvėrėjui Katalogo API raktą, kad
 Atvėrėjas galėtų automatiškai atnaujinti atveriamo duomenų rinkinio
 metaduomenis.
 
+:ref:`ŠDSA vertimo į ADSA instrukcija <šdsa-vertimas-į-adsa>
+šdsa-vertimas-į-adsa
 
 .. _adsa-publikavimas:
 
 ADSA publikavimas
 =================
 
-Atvėrėjas ŠDSA pagrindu generuoja ADSA variantą, kuriame pašalinami visi
-atveriamo duomenų šaltinio metaduomenys ir paliekama tik ta dalis, kuri skirta
-publikavimui. Atvėrėjas publikuoja ADSA Kataloge per :ref:`Katalogo partnerių
-API <partner-api>`.
+ADSA gali būti publikuojamas į Katalogą šiais būdais:
 
-Publikavus ADSA Kataloge, ADSA taip pat perduodamas ir į  atvirų duomenų
+- Užpildoma Kataloge rankiniu būdu;
+
+- Įkeliama į Katalogą iš paruošto CSV failo;
+
+- Publikuojamas Kataloge per :ref:`Katalogo partnerių
+API <partner-api>`;
+
+- Automatiškai sinchronizuojama iš Agento.
+
+Generuojant ADSA, jame pašalinami visi
+atveriamo duomenų šaltinio metaduomenys ir paliekama tik ta dalis, kuri skirta
+publikavimui.
+
+Jei ADSA aprašyti duomenys yra atviri, publikavus ADSA Kataloge, ADSA taip pat perduodamas ir į atvirų duomenų
 Saugyklą, ko pasekoje Saugykla paruošiama duomenų priėmimui, kurie atitinka
 ADSA pateiktus metaduomenis.
 
 Kataloge užtikrinama, kad įkeltas ADSA neturi struktūros pakeitimų, kurie
-nėra suderinami su prie6 tai publikuota ADSA versija, atlieka pilną
+nėra suderinami su prieš tai publikuota ADSA versija, atlieka pilną
 metaduomenų patikrinimą.
 
 
@@ -356,11 +369,15 @@ Plačiau apie tai, ką reiškia kiekvienas stulpelis galite skaityti skyriuje
 7. Užpildyti :data:`title` ir :data:`description` stulpelius pateikiant
    :data:`model` ir :data:`property` pavadinimus ir aprašymus.
 
+`Išsamiau apie DSA <https://ivpk.github.io/dsa/draft/>`_
+
 Galiausiai, toks duomenų struktūros aprašas gali būti naudojamas
 :ref:`automatizuotam duomenų atvėrimui ir publikavimui
 <automatinis-atvėrimas>` arba naudojamas kaip sutarties priedas, jei įstaiga
 duomenis atveria su rangovo ar Vyriausybės paskirtos įstaigos pagalba.
 
 Jei įstaiga jau yra atvėrusi duomenis ir juos publikuoja savo infrastruktūroje,
-tuomet į atvirų duomenų portalą turi būti įkeliamas, ne :term:`ADSA`, o
+tuomet į duomenų portalą turi būti įkeliamas, ne :term:`ADSA`, o
 :term:`ŠDSA`, kuriame aprašyti įstaigos infrastruktūroje publikuojami duomenys.
+
+
