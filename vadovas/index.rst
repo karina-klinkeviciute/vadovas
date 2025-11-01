@@ -32,7 +32,7 @@ Dokumentacija sudaryta iš šių esminių dalių:
     :caption: Vadovas
     :maxdepth: 3
 
-    teikimas/teikimas
+    duomenu_teikimas
     atverimas
     poreikio-deklaravimas
     brandos-lygio-kelimas/index
