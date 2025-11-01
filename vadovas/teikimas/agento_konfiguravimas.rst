@@ -2,8 +2,8 @@
 
 .. _agento-konfiguravimas:
 
-Duomenų teikėjams
-=================
+Agento konfigūravimas
+=====================
 
 Kataloge
 

@@ -2,5 +2,6 @@
 
 .. _teikimas-agentas:
 
-Duomenų teikėjams
-=================
+Agentas
+=======
+
