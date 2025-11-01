@@ -43,11 +43,6 @@ Kadangi organizacijų veikloms reikalingi duomenys dažniausiai saugomi tam
 tikroje vietoje, tai sudarant duomenų rinkinių sąrašą paprasčiausia apžvelgti
 resursus naudojamus duomenų saugojimui ir pagal tai įvardinti duomenų rinkinius.
 
-:ref:`Informacinės sistemos registravimas <informacines-sistemos-registravimas>`
-
-:ref:`Duomenų rinkinio registravimas <duomenu-rinkinio-registravimas>`
-
-
 Sudarant rinkinių sąrašus, reikėtų vadovautis principu, kad visi duomenys,
 kuriems nėra taikomi apribojimai yra atviri. Atviriems duomenims reikėtų nurodyti prieigos teises "Vieši",
 o ne atviriems - "Nevieši".
@@ -57,3 +52,10 @@ kad duomenų rinkinius būtų galima surasti atvirų duomenų portale. Kita
 metaduomenų dalis susijusi su atvertų duomenų periodiškumu, licencija ir
 naudojimo sąlygomis pateikiama po to, kai yra priimtas sprendimas atverti
 duomenis.
+
+Inventorizacijos žingsniai:
+
+:ref:`Informacinės sistemos registravimas <informacines-sistemos-registravimas>`
+
+:ref:`Duomenų rinkinio registravimas <duomenu-rinkinio-registravimas>`
+
