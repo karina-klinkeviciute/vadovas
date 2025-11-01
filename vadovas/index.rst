@@ -30,7 +30,7 @@ Dokumentacija sudaryta iš šių esminių dalių:
 
 .. toctree::
     :caption: Vadovas
-    :maxdepth: 2
+    :maxdepth: 3
 
     teikimas/teikimas
     atverimas

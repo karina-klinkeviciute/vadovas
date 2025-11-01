@@ -18,8 +18,9 @@ Labai apibendrintai, kiekviena įstaiga, teikianti duomenis turi atlikti šiuos
 3. Parengti :ref:`duomenų struktūros aprašus <detali-inventorizacija>` ir
    paskelbti juos :term:`Portale <ADK>`.
 
-4. :ref:`Atverti duomenis <duomenų-atvėrimas>` savarankiškai, su rangovo arba
-   Vyriausybės įgaliotos institucijos pagalba.
+4. Įsidiegti :ref:`duomenų teikimo agentą <teikimas-agentas>` savo infrastruktūroje.
+
+5. :ref:`Sukonfiguruoti duomenų teikimo agentą <agento-konfiguravimas>`.
 
 Visas duomenų atvėrimo procesas duomenų teikėjams yra kiek įmanoma
 supaprastintas ir iš esmės susivedantis į duomenų rinkinių sąrašo ir struktūros
@@ -58,7 +59,6 @@ Valstybės skaitmeninių sprendimų agentūra (VSSA)
     atverimas/registracija
     atverimas/inventorizacija
     atverimas/struktura
-    atverimas/atverimas
     teikimas/agentas
-    teikimas/agento_konfiguravimas_kataloge
+    teikimas/agento_konfiguravimas
     teikimas/sutartys
