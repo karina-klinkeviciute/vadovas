@@ -43,7 +43,7 @@ Kadangi organizacijų veikloms reikalingi duomenys dažniausiai saugomi tam
 tikroje vietoje, tai sudarant duomenų rinkinių sąrašą paprasčiausia apžvelgti
 resursus naudojamus duomenų saugojimui ir pagal tai įvardinti duomenų rinkinius.
 
-:ref:`Informacinės sistemos registravimas <informacines-sistemos-registravimas>
+:ref:`Informacinės sistemos registravimas <informacines-sistemos-registravimas>`
 
 :ref:`Duomenų rinkinio registravimas <duomenu-rinkinio-registravimas>`
 
