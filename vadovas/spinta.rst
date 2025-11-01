@@ -84,7 +84,7 @@ HDD
 
 Duomenų atvėrimo priemonė Spinta yra sukurta naudojant Python_ technologiją.
 Todėl prieš diegiant, jūsų naudojamoje aplinkoje turi būti `įdiegta`__ Python
-3.9 arba naujesnė versija.
+3.10 arba naujesnė versija.
 
 .. _Python: https://www.python.org/
 
@@ -118,7 +118,7 @@ reikalinga Python versiją, tai galite pažiūrėti taip:
 
     $ python3 --version
 
-Jei turite 3.9 ar naujesnę versiją, tuomet galite pereiti prie
+Jei turite 3.10 ar naujesnę versiją, tuomet galite pereiti prie
 :ref:`install-debian-python-packages` žingsnio.
 
 Naujesnę Python versiją galite įsidiegti pasirinkdami vieną iš dviejų galimų

@@ -140,6 +140,8 @@ duomenų perdavimui reikalinga tiek vietos, kiek užima visų atveriamų duomen�
 identifikatoriai. Kiek tiksliai identifikatoriams reikės vietos labai
 priklauso nuo duomenų šaltinio duomenų.
 
+:ref:`ŠDSA generavimo ir duomenų teikimo įrankio "spinta" diegimas ir konfigūravimas <spinta>`
+
 
 .. _šdsa-paruošimas:
 
