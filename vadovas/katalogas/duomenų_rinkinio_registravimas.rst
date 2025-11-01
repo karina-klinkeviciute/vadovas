@@ -2,6 +2,9 @@
 
 .. _duomenu-rinkinio-registravimas:
 
+##############################
+Duomenų rinkinio registravimas
+##############################
 
 Duomenų portale, naujas **duomenų rinkinys** registruojamas tokiu būdu:
 
