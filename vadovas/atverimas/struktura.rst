@@ -207,7 +207,7 @@ Tam tikrais atvejais, kai duomenų šaltinis yra labai nedidelės apimties arba
 duomenų brandos lygis yra labai žemas, šaltinio duomenų struktūros aprašą
 galima parengti ir rankiniu būdu, užpildant ŠDSA lentelę.
 
-:ref:`ŠDSA paruošimo instrukcija <šdsa-generavimas>
+:ref:`ŠDSA paruošimo instrukcija <šdsa-generavimas>`
 
 .. _šdsa-suderinimas:
 
@@ -220,8 +220,7 @@ Atvėrėjo pagalba parengia ŠDSA atvėrimui.
 Ruošiant ŠDSA atvėrimui, nurodoma kurie duomenų laukai bus atveriami,
 nurodomi filtrai, jei duomenys atveriami ne pilna apimtimi, sutvarkomi
 kodiniai pavadinimai, kad atitiktų atveriamiems duomenis keliamus
-reikalavimus, pateikiami trūkstami metaduomenys. Plačiau apie ŠDSA paruošimą
-atvėrimui skaitykite skyriuje :ref:`detali-inventorizacija`.
+reikalavimus, pateikiami trūkstami metaduomenys.
 
 
 .. _atvėrimo-sutartis:
@@ -254,8 +253,7 @@ ADSA gali būti publikuojamas į Katalogą šiais būdais:
 
 - Įkeliama į Katalogą iš paruošto CSV failo;
 
-- Publikuojamas Kataloge per :ref:`Katalogo partnerių
-API <partner-api>`;
+- Publikuojamas Kataloge per :ref:`Katalogo partnerių API <partner-api>`;
 
 - Automatiškai sinchronizuojama iš Agento.
 
