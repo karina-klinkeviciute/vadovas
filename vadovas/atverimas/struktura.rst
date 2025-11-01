@@ -242,7 +242,6 @@ Atvėrėjas galėtų automatiškai atnaujinti atveriamo duomenų rinkinio
 metaduomenis.
 
 :ref:`ŠDSA vertimo į ADSA instrukcija <šdsa-vertimas-į-adsa>`
-šdsa-vertimas-į-adsa
 
 .. _adsa-publikavimas:
 
