@@ -2,9 +2,9 @@
 
 .. _atvėrimas:
 
-#################
-Duomenų teikėjams
-#################
+##################
+Duomenų atvėrėjams
+##################
 
 Labai apibendrintai, kiekviena įstaiga atverianti duomenis turi atlikti šiuos
 žingsnius:

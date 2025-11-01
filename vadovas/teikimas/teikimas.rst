@@ -2,6 +2,6 @@
 
 .. _duomenu_teikimas:
 
-Duomenų teikimas
-================
+Duomenų teikėjams
+=================
 

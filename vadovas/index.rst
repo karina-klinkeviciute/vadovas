@@ -17,7 +17,7 @@ Dokumentacija sudaryta iš šių esminių dalių:
   :ref:`duomenų atvėrimo <atvėrimas>`,
   ir duomenų :ref:`brandos lygio kėlimo <brandos-lygio-kėlimas>` procesus.
 
-- Informacija **duomenų naudotojams**, apie tai, kaip :ref:`gauti duomenis iš valstybinių įstaigų`,
+- Informacija **duomenų naudotojams**, apie tai, kaip :ref:`gauti duomenis iš valstybinių įstaigų <duomenu_gavimas>`,
   :ref:`gauti atvirus duomenis iš saugyklos <saugykla>`,
   ir kaip :ref:`teikti pageidavimus ir pastabas <poreikio-deklaravimas>` dėl duomenų.
 
