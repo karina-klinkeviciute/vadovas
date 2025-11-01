@@ -252,7 +252,7 @@ ADSA gali būti publikuojamas į Katalogą šiais būdais:
 
 - Užpildoma Kataloge rankiniu būdu;
 
-- Įkeliama į Katalogą iš paruošto CSV failo;
+- :ref:`Įkeliama į Katalogą iš paruošto CSV failo<duomenu-rinkinio-importavimas>`;
 
 - Publikuojamas Kataloge per :ref:`Katalogo partnerių API <partner-api>`;
 
@@ -359,13 +359,18 @@ Plačiau apie tai, ką reiškia kiekvienas stulpelis galite skaityti skyriuje
 4. Užpildyti :data:`property.access`, nurodant duomenų :ref:`prieigos lygį
    <access>`.
 
-5. Užpildyti :data:`model.prepare`, jei duomenys atveriami ne pilna apimtimi ir
+5. Užpildyti :data:`property.visibility`, nurodant metaduomenų :ref:`matomumą
+   <visibility>`.
+
+6. Užpildyti :data:`model.prepare`, jei duomenys atveriami ne pilna apimtimi ir
    reikia juos :ref:`filtruoti <duomenų-atranka>`.
 
-6. :data:`property.level` stulpelyje nurodyti esamą duomenų laukų :ref:`brandos
+7. :data:`property.level` stulpelyje nurodyti esamą duomenų laukų :ref:`brandos
    lygį <level>`.
 
-7. Užpildyti :data:`title` ir :data:`description` stulpelius pateikiant
+8. :data:`property.eli` stulpelyje nurodyti :ref:`sąsają su teisės aktu <eli>`.
+
+9. Užpildyti :data:`title` ir :data:`description` stulpelius pateikiant
    :data:`model` ir :data:`property` pavadinimus ir aprašymus.
 
 `Išsamiau apie DSA <https://ivpk.github.io/dsa/draft/>`_

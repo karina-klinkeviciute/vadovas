@@ -724,6 +724,8 @@ Duomenų šablono atsisiuntimas
 Duomenų rinkinio importavimas
 =============================
 
+.. _duomenu-rinkinio-importavimas:
+
 1. Pagrindiniame meniu pasirinkite **„Duomenų rinkiniai“**;
 
 2. Duomenų rinkinių sąrašo lange paspauskite **[Importuoti XLSX]**;
