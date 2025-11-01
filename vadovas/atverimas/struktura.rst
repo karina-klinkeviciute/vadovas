@@ -17,23 +17,23 @@ Kas yra duomenų struktūros aprašas?
 .. image:: /static/struktura.png
 
 Duomenų struktūros apraše pateikiama duomenų struktūros išklotinė išvardinant
-visus duomenų laukus, kurie bus atverti.
+visus duomenų laukus, kurie bus teikiami ar atverti.
 
 Duomenų struktūros apraše pateikiama pilna duomenų laukų išklotinė.
 
 Duomenų laukai yra skirstomi į modelius. **Modelio** ir **savybės** tiksli
 prasmė priklauso nuo aprašomo duomenų šaltinio:
 
-========  =======  ===================
-Šaltinis  Modelis  Savybė
---------  -------  -------------------
-SQL       Lentelė  Stulpelis
-CSV       Lentelė  Stulpelis
-XLSX      Lentelė  Stulpelis
-JSON      Masyvas  Atributas
-XML       Masyvas  Atributas/Elementas
-RDF       Klasė    Savybė
-========  =======  ===================
+========  =================  ===================
+Šaltinis  Modelis            Savybė
+--------  -----------------  -------------------
+SQL       Lentelė            Stulpelis
+CSV       Lentelė            Stulpelis
+XLSX      Lentelė            Stulpelis
+JSON      Masyvas            Atributas
+XML       Masyvas/Elementas  Atributas/Elementas
+RDF       Klasė              Savybė
+========  =================  ===================
 
 
 Duomenų struktūros apraše galima aprašyti įvairių duomenų šaltinių turinį
