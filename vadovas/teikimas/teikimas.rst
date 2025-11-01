@@ -56,7 +56,6 @@ Valstybės skaitmeninių sprendimų agentūra (VSSA)
 .. toctree::
     :caption: Duomenų teikėjams
     :maxdepth: 2
-    :hidden:
 
     atverimas/registracija
     atverimas/inventorizacija
