@@ -353,8 +353,7 @@ Plačiau apie tai, ką reiškia kiekvienas stulpelis galite skaityti skyriuje
 
 2. Pateikti duomenų šaltinio pavadinimą, :ref:`tipą ir adresą <resource>`.
 
-3. Užpildyti :data:`uri` stulpelį, nurodant kuriose vietose yra :ref:`asmens
-   duomenys <pii>`.
+3. Užpildyti `uri` stulpelį.
 
 4. Užpildyti :data:`property.access`, nurodant duomenų :ref:`prieigos lygį
    <access>`.
